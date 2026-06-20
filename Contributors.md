@@ -566,6 +566,7 @@
 - [Gautam Kumawat](https://github.com/gautam9892)
 - [Gayatri Yadkikar](https://github.com/yadkikargayatri)
 - [Ganga Raghuwanshi] (https://github.com/ganga-300)
+- [Geetam Goyal](https://github.com/geetamgoyal)
 - [Gunjan Yadav](https://github.com/Gunjan-Yadav12)
 - [George Soden](https://github.com/georgesoden)
 - [Georgia Pennington](https://github.com/gpenn4)
